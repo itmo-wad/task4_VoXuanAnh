@@ -4,4 +4,4 @@ In this work, I covered all the 3 parts:
 * Optimal part: registration updated to MongoDB
 * Challenging part: implement password change
 * Compare between using and not using indexes:
-![GRAPH] (/wad4.png)
+![GRAPH](/image/wad4.png)
