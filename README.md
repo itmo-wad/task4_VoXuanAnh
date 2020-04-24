@@ -5,3 +5,4 @@ In this work, I covered all the 3 parts:
 * Challenging part: implement password change
 * Compare between using and not using indexes:
 ![GRAPH](/image/wad4.png)
+Images in details are stored in the folder image.
